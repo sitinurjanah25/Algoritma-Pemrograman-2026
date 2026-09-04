@@ -1,2 +1,0 @@
-﻿# tugas_pertemuan_1_pmerograman
-# Algoritma-Pemrograman-2026
